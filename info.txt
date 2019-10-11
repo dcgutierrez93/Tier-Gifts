@@ -2,3 +2,5 @@ ngrok http -subdomain=shopifytier 3000
 
 
 Forwarding Address: https://shopifytier.ngrok.io
+
+https://shopifytier.ngrok.io/auth?shop=dcg-development-store.myshopify.com
