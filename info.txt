@@ -1,0 +1,4 @@
+ngrok http -subdomain=shopifytier 3000
+
+
+Forwarding Address: https://shopifytier.ngrok.io
